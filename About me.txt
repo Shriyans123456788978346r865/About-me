@@ -1,0 +1,20 @@
+<!DOCTYPE>
+
+<Html>
+
+<head>
+<title>about me<title>
+</head>
+
+<body>
+Welcome! to my website
+
+<H1>Who I am</H1>
+<p>Hi! I am shriyans. I study in class 6th S.N.B.P school. I live in nythi elan B17 702 in pune</p>
+</H1>
+<HR>
+<H2>
+<P2>Hi my  hoobies are to create apps, playing games, football and singing.</P2>
+</H2>
+<HR>
+</body>
